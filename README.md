@@ -4,7 +4,6 @@ A repository of code supporting the teleconnections project with Everstream Anal
 <p align="center">
   <img src="img/Regions_of_Interest.png" width="900">
 </p>
-
 <p align="center">
   <em>The 13 regions of interest for Everestream Analytics.</em>
 </p>
