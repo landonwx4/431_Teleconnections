@@ -21,10 +21,11 @@ For more information on the results of this project, see the included reports an
 * cartopy
 * ipywidgets
 * matplotlib
+* netcdf4 or h5netcdf (For reading included data)
 * numpy
 * pandas
 * scipy
-* sklearn
+* scikit-learn
 * statsmodels
 * xarray
 * ydf
